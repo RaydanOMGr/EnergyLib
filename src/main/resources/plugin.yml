@@ -1,0 +1,4 @@
+name: EnergyLib
+version: '${project.version}'
+main: com.buby.energylib.EnergyLib
+api-version: 1.19

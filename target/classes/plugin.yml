@@ -1,0 +1,4 @@
+name: EnergyLib
+version: '1.0-SNAPSHOT'
+main: com.buby.energylib.EnergyLib
+api-version: 1.19

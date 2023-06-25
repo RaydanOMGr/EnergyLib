@@ -1,0 +1,11 @@
+com\buby\energylib\impl\inertf\EnergyConsumer.class
+com\buby\energylib\Util.class
+com\buby\energylib\impl\GeneratorMachine.class
+com\buby\energylib\MachineBlock.class
+com\buby\energylib\EnergyLib.class
+com\buby\energylib\event\UpdateSecondEvent.class
+com\buby\energylib\MachineManager.class
+com\buby\energylib\impl\inertf\EnergyConductor.class
+com\buby\energylib\impl\CoalMiner.class
+com\buby\energylib\MachineManager$1.class
+com\buby\energylib\QueryPriority.class
